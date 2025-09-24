@@ -2,14 +2,14 @@
 
 **`Web Developer`**
 
----
+#
 
 🧑‍💻 Web developer passionate about building modern web applications<br/>
 📚 Studing Computer Science at the Opole University of Technology, Poland<br/>
 🎮 Gamedev enthusiast<br/>
 🧩 Hobby: solving Rubik's cubes<br/>
 
----
+#
 
 ## 🚀 Skills
 
@@ -21,17 +21,17 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+#
 
 ## 📊 GitHub Stats
 
 ![Szymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brzana&show_icons=true&theme=radical)
 
----
+#
 
 ## 📫 Contact
 
 - Email: [szymonbrzana@gmail.com](mailto:szymonbrzana@gmail.com)
 - LinkedIn: [Szymon Brzana](https://www.linkedin.com/in/szymon-brzana-6a79312b9/)
 
----
+#
