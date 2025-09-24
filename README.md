@@ -26,7 +26,6 @@
 ## 📊 GitHub Stats
 
 ![Szymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brzana&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brzana)](https://github.com/Brzana/github-readme-stats)
 
 #
 
