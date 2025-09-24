@@ -1,9 +1,11 @@
-### Hi, I'm Szymon!
+# Hi, I'm Szymon!
+
+**`Web Developer`**
 
 🧑‍💻 Web developer passionate about building modern web applications<br/>
+📚 Studing Computer Science at the Opole University of Technology, Poland<br/>
 🎮 Gamedev enthusiast<br/>
 🧩 Hobby: solving Rubik's cubes<br/>
-📚 Studing Computer Science at the Opole University of Technology, Poland<br/>
 
 ---
 
