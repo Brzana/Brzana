@@ -27,12 +27,6 @@
 
 #
 
-## 📊 GitHub Stats
-
-![Szymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brzana&show_icons=true&theme=radical)
-
-#
-
 ## 📫 Contact
 
 - Email: [szymonbrzana@gmail.com](mailto:szymonbrzana@gmail.com)
